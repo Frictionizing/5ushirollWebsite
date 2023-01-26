@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <Card title ={"pussy"} description = {"fuck"}/>
-      <Card title ={"pusssussy"} description = {"fuc"}/>       
+      <Card title ={"amongg us"} description = {"fuc"}/>       
     </div>
   );
 }
